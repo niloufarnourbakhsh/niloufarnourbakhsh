@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Niloufar👋
 
 <!--
 **niloufarnourbakhsh/niloufarnourbakhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 learning all about php-laravel-mysql
-📫 How to reach me: nil.noorbakhsh@gmail.com
+🌱 learning all about php-laravel-mysql **/**
+📫 How to reach me: nil.noorbakhsh@gmail.com **/**
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="40" style="vertical-align:top; margin:4px">
